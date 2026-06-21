@@ -1,0 +1,6 @@
+{
+  "name": "HK Weather",
+  "description": "A polished, responsive dynamic Weather App featuring real-time local forecasts, 7-day forecast data, smart location searching, and an interactive world weather radar map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
